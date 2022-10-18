@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    size: 3.4375rem;
+    line-height: 3.485rem;
+    margin-left: 7.5625rem;
+
+}
+
+.image {
+    width: 24.9375rem;
+    height: 10rem;
+}
+
+.icon-1 {
+    width: 24.9375rem;
+    height: 20.5rem;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+pre {
+    font-size: 1.5625rem;
+    margin-left: 20px;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.column-1 .column-2 .column-3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-4 {
+    margin: 30px 30px;
+}
+
+.container-5 {
+    background-color: #EFEFEF;
+    width: 1440px;
+    height: 780px;
+}
+
+h1 {
+    font-size: 50px;
+    width: 987px;
+    margin-top: 20px;
+}
+
+.text-5 {
+    width: 700px;
+    height: 203px;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 40px 46px 50px 45px;
+}
+
+.block-5 {
+    width: 800px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: white;
+    margin: 10px 0px 20px 10px;
+}
+
+.image-5 {
+    margin: -30px 0px 0px 30px;
+    padding-bottom: 20px;
+}
+
+.name-icon {
+    margin: -125px 0px 0px 200px;
+}
+
+.fb-icon {
+    margin-left: 20px;
+}
