@@ -87,3 +87,170 @@ h1 {
 .fb-icon {
     margin-left: 20px;
 }
+
+@media screen and (max-width: 960px) {
+
+
+
+    h1 {
+        size: 2rem;
+        line-height: 2rem;
+        margin-left: 4rem;
+
+    }
+
+    .image {
+        width: 15rem;
+        height: 7rem;
+    }
+
+    .icon-1 {
+        width: 15rem;
+        height: 12rem;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+
+    pre {
+        font-size: 1rem;
+        margin-left: 15px;
+    }
+
+    h2 {
+        margin-left: 15px;
+    }
+
+    .column-1 .column-2 .column-3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-4 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .col-4 {
+        margin: 15px 15px;
+    }
+
+    .container-5 {
+        background-color: #EFEFEF;
+        width: 1000px;
+        height: 500px;
+    }
+
+    h1 {
+        font-size: 30px;
+        width: 700px;
+        margin-top: 15px;
+    }
+
+    .text-5 {
+        width: 500px;
+        height: 150px;
+        font-size: 15px;
+        line-height: 15px;
+        margin: 15px 20px 25px 15px;
+    }
+
+    .block-5 {
+        width: 600px;
+        height: 250px;
+        border: 1px solid black;
+        border-radius: 20px;
+        background-color: white;
+        margin: 5px 0px 10px 5px;
+    }
+
+    .image-5 {
+        margin: -15px 0px 0px 15px;
+        padding-bottom: 10px;
+    }
+
+    .name-icon {
+        margin: -70px 0px 0px 120px;
+    }
+
+    .fb-icon {
+        margin-left: 20px;
+    }
+
+    @media screen and (max-width: 600px) {
+        h1 {
+            size: 1rem;
+            line-height: 1rem;
+            margin-left: 2rem;
+    
+        }
+    
+        .image {
+            width: 5rem;
+            height: 3rem;
+        }
+    
+        .icon-1 {
+            width: 5rem;
+            height: 6rem;
+            border-radius: 10px;
+            border: 1px solid black;
+        }
+    
+        pre {
+            font-size: 1rem;
+            margin-left: 5px;
+        }
+    
+        h2 {
+            margin-left: 5px;
+        }
+    
+    
+    
+        .col-4 {
+            margin: 15px 15px;
+        }
+    
+        .container-5 {
+            background-color: #EFEFEF;
+            width: 500px;
+            height: 250px;
+            display: block;
+        }
+    
+        h1 {
+            font-size: 15px;
+            width: 350px;
+            margin-top: 7px;
+        }
+    
+        .text-5 {
+            width: 250px;
+            height: 75px;
+            font-size: 7px;
+            line-height: 7px;
+            margin: 25px 30px 35px 20px;
+        }
+    
+        .block-5 {
+            width: 300px;
+            height: 100px;
+            border: 1px solid black;
+            border-radius: 10px;
+            background-color: white;
+            margin: 5px 0px 10px 5px;
+        }
+    
+        .image-5 {
+            margin: -10px 0px 0px 10px;
+            padding-bottom: 20px;
+        }
+    
+        .name-icon {
+            margin: -30px 0px 0px 50px;
+        }
+    
+        .fb-icon {
+            margin-left: 5px;
+        }
+    
